@@ -1,3 +1,6 @@
+#### Link to the Question
+https://leetcode.com/problems/3sum/
+
 #### Problem Statement
 ```
 Return List of all triplets whose sum is equal to zero
